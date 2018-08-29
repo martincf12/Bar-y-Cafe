@@ -1,0 +1,4 @@
+Nombre=Pizza Napo
+Cantidad=44
+Precio=250.0
+Categoria=Comida

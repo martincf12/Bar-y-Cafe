@@ -1,0 +1,3 @@
+Producto: Canelones Cantidad: 1 Precio: 100.0
+Producto: Coca Cola Cantidad: 1 Precio: 60.0
+Producto: Salchipapa Cantidad: 1 Precio: 80.0

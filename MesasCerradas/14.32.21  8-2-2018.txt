@@ -1,0 +1,2 @@
+Producto: Burguer Zanahoria Cantidad: 1 Precio: 100.0
+Producto: Patagonia 24.7 Cantidad: 1 Precio: 130.0

@@ -1,0 +1,2 @@
+Producto: Burguer Carne Cantidad: 2 Precio: 100.0
+Producto: Patagonia Amber Cantidad: 1 Precio: 130.0

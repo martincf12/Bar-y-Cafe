@@ -1,0 +1,6 @@
+Producto -- Cantidad -- Cantidad
+Burguer Carne -- 1 -- 100.0
+Agua -- 1 -- 35.0
+Burguer Zanahoria -- 2 -- 100.0
+Pepsi -- 3 -- 35.0
+Patagonia Amber -- 1 -- 130.0

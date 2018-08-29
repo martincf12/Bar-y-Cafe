@@ -1,0 +1,5 @@
+Producto -- Cantidad -- CantidadBurguer Carne -- 1 -- 100.0
+Patagonia 24.7 -- 2 -- 130.0
+Agua -- 2 -- 35.0
+Seven Up -- 1 -- 35.0
+Burguer Zapallo -- 1 -- 100.0

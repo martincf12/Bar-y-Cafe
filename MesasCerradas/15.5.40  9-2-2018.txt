@@ -1,0 +1,2 @@
+Producto: Burguer Zanahoria Cantidad: 1 Precio: 100.0
+Producto: Pepsi Cantidad: 2 Precio: 35.0

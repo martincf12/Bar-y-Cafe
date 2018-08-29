@@ -1,0 +1,4 @@
+Nombre=Burguer Carne
+Cantidad=5
+Precio=100.0
+Categoria=Comida

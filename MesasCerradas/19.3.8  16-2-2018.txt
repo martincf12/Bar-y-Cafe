@@ -1,0 +1,2 @@
+Producto -- Cantidad -- Cantidad
+Burguer Carne -- 6 -- 100.0

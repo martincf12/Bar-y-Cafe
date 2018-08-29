@@ -1,0 +1,7 @@
+Producto -- Cantidad -- Cantidad
+Burguer Carne -- 1 -- 100.0
+Agua -- 1 -- 35.0
+AJEDREZ -- 1 -- 0.0
+Burguer Remolacha -- 1 -- 100.0
+Patagonia 24.7 -- 2 -- 130.0
+CARTAS UNO -- 2 -- 0.0
